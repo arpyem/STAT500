@@ -5,7 +5,7 @@ Version: 0.1.0
 Author: Ryan McArdle
 Maintainer: Ryan McArdle <arpyemofficial@gmail.com>
 Description: Provides utilities for introductory graduate-level statistics: probability theory, sampling distributions, inference, etc.
-License: What license is it under?
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports: 
